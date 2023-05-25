@@ -5,8 +5,8 @@ Code for Spaceship Titanic Survivor Prediction/Classification competition on Kag
 
 |PROCESS|DESCRIPTION|
 |-------|-----------|
-|1.Data Preprocessing|EDA, Missing values, split/merge columns, data scaling(outlier, standarization), encoding|
-|2.Modeling|Logistic Regression, Support Vector Machine, Random Forest, XGBoost, Light Gradient Boosting|
-|3.Model Comparison|LGBM-XGBoost-Logistic Regression, Random Forest, Random Forest|
-|4.Inference|prediction on test set|
-|5.submission|get final classification result csv file|
+|1. Data Preprocessing|EDA, Missing values, Split/Merge columns, Data Scaling(outlier, standarization), Label Encoding|
+|2. Modeling|Logistic Regression, Support Vector Machine, Random Forest, XGBoost, Light Gradient Boosting|
+|3. Model Comparison|LGBM-XGBoost-LogisticRegression-RandomForest-Random Forest|
+|4. Inference|Prediction on test set|
+|5. Submission|Get final classification result csv file|
